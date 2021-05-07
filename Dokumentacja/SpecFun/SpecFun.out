@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Informacje og\363lne}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{O dokumencie}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Uzytkownik docelowy}{subsection.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Cel projektu}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Informacje o programie}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Nazwa programu}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Dostepnosc}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Opis programu}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Uzytkownik docelowy}{subsection.2.3}% 9
+\BOOKMARK [1][-]{section.3}{Opis funkcjonalnosci}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Uruchomienie programu}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Parametry programu}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Jak korzystac z programu?}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Panel startowy}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Plik konfiguracyjny}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Domyslne wartosci parametr\363w programu}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Panel ustawien}{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Panel gry}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.6}{Ruch czo\233gu}{subsection.3.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.3.7}{Strzelanie}{subsection.3.3}% 20
+\BOOKMARK [3][-]{subsubsection.3.3.8}{Kom\363rki oraz kolonie}{subsection.3.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.3.9}{Kom\363rka-bomba}{subsection.3.3}% 22
+\BOOKMARK [3][-]{subsubsection.3.3.10}{Zdobywanie punkt\363w}{subsection.3.3}% 23
+\BOOKMARK [1][-]{section.4}{Format danych i struktura plik\363w}{}% 24
+\BOOKMARK [2][-]{subsection.4.1}{Dane wejsciowe}{section.4}% 25
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Ograniczenia dla danych wejsciowych}{subsection.4.1}% 26
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Przyk\233adowe dane wejsciowe}{subsection.4.1}% 27
+\BOOKMARK [2][-]{subsection.4.2}{Dane wyjsciowe}{section.4}% 28
+\BOOKMARK [1][-]{section.5}{Scenariusz dzia\233ania programu}{}% 29
+\BOOKMARK [2][-]{subsection.5.1}{Scenariusz og\363lny}{section.5}% 30
+\BOOKMARK [2][-]{subsection.5.2}{Scenariusz szczeg\363\233owy}{section.5}% 31
+\BOOKMARK [2][-]{subsection.5.3}{Scenariusz w przypadku b\233ednego uruchomienia}{section.5}% 32
+\BOOKMARK [2][-]{subsection.5.4}{Komunikaty b\233ed\363w}{section.5}% 33
