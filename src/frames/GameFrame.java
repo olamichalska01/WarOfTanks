@@ -5,19 +5,19 @@ import javax.swing.*;
 public class GameFrame {
     public JFrame frameGame = new JFrame();
 
-    public GameFrame(){
+    public GameFrame() {
         long t1 = System.currentTimeMillis();
 
         setFrame(frameGame);
 
         long t2 = System.currentTimeMillis();
-        System.out.println("GameFrame: " + (t2-t1));
+        System.out.println("GameFrame: " + (t2 - t1));
     }
 
-    private void setFrame(JFrame frame){
+    private void setFrame(JFrame frame) {
         frame.setResizable(false);
         frame.setLayout(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setBounds(500,100, 1000,800);
+        frame.setBounds(500, 100, 1000, 800);
     }
 }
