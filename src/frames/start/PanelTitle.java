@@ -10,6 +10,7 @@ public class PanelTitle extends JPanel {
 
     public PanelTitle() {
 
+
         long t1 = System.currentTimeMillis();
 
         setLayout(null);
@@ -17,6 +18,7 @@ public class PanelTitle extends JPanel {
 
         long t2 = System.currentTimeMillis();
         System.out.println("PanelTitle: " + (t2 - t1));
+
     }
 
     @Override
