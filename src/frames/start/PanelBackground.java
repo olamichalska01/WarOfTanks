@@ -1,24 +1,21 @@
 package frames.start;
 
-import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
-import java.io.File;
-import java.io.IOException;
 import java.util.Objects;
 
 public class PanelBackground extends JPanel {
 
     private final Image img = new ImageIcon(Objects.requireNonNull(getClass().getResource("background.png"))).getImage();
 
-    public PanelBackground(){
+    public PanelBackground() {
         long t1 = System.currentTimeMillis();
 
         setLayout(null);
-        setBounds(0,0,600,800);
+        setBounds(0, 0, 600, 800);
 
         long t2 = System.currentTimeMillis();
-        System.out.println("PanelBackground: " + (t2-t1));
+        System.out.println("PanelBackground: " + (t2 - t1));
 
         /*
         try {
@@ -39,7 +36,7 @@ public class PanelBackground extends JPanel {
 
     @Override
     public void paintComponent(Graphics g) {
-        g.drawImage(img, 0, 0,600,800, null);
+        g.drawImage(img, 0, 0, 600, 800, null);
     }
 
 }

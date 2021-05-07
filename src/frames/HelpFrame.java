@@ -2,7 +2,10 @@ package frames;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 
 public class HelpFrame {
     public JFrame helpFrame = new JFrame("Game rules");
@@ -35,7 +38,7 @@ public class HelpFrame {
         gameRulesText.setEditable(false);
         gameRulesText.setLineWrap(true);
         gameRulesText.setOpaque(false);
-        gameRulesText.setBounds(50,50,200,300);
+        gameRulesText.setBounds(50, 50, 200, 300);
     }
 
     private void createHelpPanel() {
