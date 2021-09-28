@@ -1,0 +1,21 @@
+
+MAIN GOAL OF GAME:
+    The main goal of the game is to earn as many points as possible. The player earns points for shooting down cells and colonies with bullets.
+
+CONTROLS:
+    The left tank is red. This player can move the tank up (W) and down (S). Also can move the barrel up (A) and down (D). To shoot, the player needs to press SPACE.
+    The right tank is blue. This player can move the tank up (Up arrow) and down (Down arrow). Also can move the barrel up (Right arrow) and down (Left arrow). To shot, the player needs to press ENTER.
+
+CELLS AND COLONIES:
+    While the game keeps going, the cells and colonies start to generate. Each cell has several lives. To gain points, players need to shot down cells. When the cell will have no lives, the player who gives it the last hit earns points for this cell.
+    To gain points for colonies, players need to shot down all the cells, which the colony is made of. When the colony has no cells, the player who shot down the last cell earns points from the colony, which is the number of cells multiplied by points per cell.
+
+GAME PARAMETERS:
+    Players can change the game parameters by attaching a text file with the data (ADD FILE button).
+    If players decide that they do not want to use the attached file, they can always reset the game data by pressing the RESET button or attaching a new file by clicking the ADD FILE button again.
+
+BOMB:
+    The bomb is armored at the sides and can only be shot on the very top. The bomb explodes, when it has been hit 50 times.
+
+SCREENSHOT:
+    When the game is over, a screenshot of the screen is taken.

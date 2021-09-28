@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Informacje og\'olne}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Opis dokumentu}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}\'Srodowisko implementacyjne}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Narz\k {e}dzia i programy towarzysz\k {a}ce tworzeniu}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Konwencja wprowadzania zmian w kontroli wersji}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Okre\'slenie kamieni milowych}{3}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Opis klas i ich zale\IeC {\.z}no\IeC {\'s}ci}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Diagram klas}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Klasy}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}MainOfWar}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}StartFrame}{4}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}HelpFrame}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}ConfObject}{4}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}GameFrame}{4}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}SettingsFrame}{5}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Colony}{6}{subsubsection.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.2.8}Cell}{7}{subsubsection.2.2.8}%
+\contentsline {subsubsection}{\numberline {2.2.9}Bomb}{7}{subsubsection.2.2.9}%
+\contentsline {subsubsection}{\numberline {2.2.10}Bullet}{7}{subsubsection.2.2.10}%
+\contentsline {subsubsection}{\numberline {2.2.11}TankLeft oraz TankRight}{8}{subsubsection.2.2.11}%
+\contentsline {subsubsection}{\numberline {2.2.12}BodyL oraz BodyR}{8}{subsubsection.2.2.12}%
+\contentsline {subsubsection}{\numberline {2.2.13}BarrelL oraz BarrelR}{8}{subsubsection.2.2.13}%
+\contentsline {subsection}{\numberline {2.3}Zale\.zno\'sci mi\k {e}dzy klasami}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Wzorce projektowe}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Multimedia}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Grafika}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Muzyka}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Testowanie}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Wygl\k {a}d test\'ow}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Najwa\.zniejsze elementy do przetestowania}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Opis test\'ow kluczowych}{9}{subsection.4.3}%
